@@ -5,7 +5,7 @@ import os
 
 pName = 'xPackeTool'
 pVersion = '1.2.0'
-pUrl = 'https://raw.githubusercontent.com/JellyBitz/phBot-xPlugins/master/xPackeTool.py'
+pUrl = 'https://raw.githubusercontent.com/ohmygodvt95/phBot-xPlugins/blob/master/xPacketTool.py'
 
 # ______________________________ Initializing ______________________________ #
 
@@ -245,4 +245,5 @@ def handle_joymax(opcode, data):
 
 # Plugin loaded
 log('Plugin: '+pName+' v'+pVersion+' succesfully loaded')
+log('Plugin1: '+pName+' v'+pVersion+' succesfully loaded')
 loadConfigs()
