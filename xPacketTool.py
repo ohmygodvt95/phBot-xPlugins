@@ -5,7 +5,7 @@ import os
 
 pName = 'xPackeTool'
 pVersion = '1.2.0'
-pUrl = 'https://raw.githubusercontent.com/ohmygodvt95/phBot-xPlugins/blob/master/xPacketTool.py'
+pUrl = 'https://raw.githubusercontent.com/ohmygodvt95/phBot-xPlugins/master/xPacketTool.py'
 
 # ______________________________ Initializing ______________________________ #
 
